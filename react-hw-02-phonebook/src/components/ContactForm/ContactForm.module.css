@@ -1,0 +1,9 @@
+.contactForm {
+    display: flex;
+    flex-direction: column;
+    max-width: 320px;
+}
+.formLabel {
+    display: flex;
+    flex-direction: column;
+}
